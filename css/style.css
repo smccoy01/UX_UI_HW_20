@@ -1,0 +1,23 @@
+body{
+  background-color: #292b2c;
+  color:white;
+}
+
+
+.Introduction{
+  background-color: #292b2c;
+  color:white;
+}
+
+
+.card-title{
+  text-align: center;
+}
+
+
+.introVid{
+  background-color: #292b2c;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
